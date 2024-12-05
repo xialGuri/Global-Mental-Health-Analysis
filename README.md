@@ -1,4 +1,4 @@
-# Global-Mental-Health-Analysis
+Global Mental Health Analysis
 * Hyunjin Yu
 * Glenn Castellino
 * Quan Nguyen
