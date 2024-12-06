@@ -1,4 +1,6 @@
 # Global Mental Health Analysis
+Contributors:
+
 * Hyunjin Yu
 * Glenn Castellino
 * Quan Nguyen
