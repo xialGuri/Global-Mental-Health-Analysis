@@ -1,6 +1,7 @@
 # Global Mental Health Analysis
 Contributors:
 
+* Donghyeon Na (Team Lead)
 * Hyunjin Yu
 * Glenn Castellino
 * Quan Nguyen
